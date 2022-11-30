@@ -1,5 +1,7 @@
 # node.js_rest_api
-I created a CRUD App in React.js, Node.js, and MySQL
+Hi everyone, This is Hafiz Sohaib and welcome to my GitHub profile.
+
+I created a Basic REST API Project in Node.js and SqLite3.
 
 To run this project. First, clone or download this project and go to main folder. Then run following commands
 
